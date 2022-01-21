@@ -8,3 +8,19 @@ El cuarto método, el de la Mediana, requiere tener los datos ordenados ascenden
 El último método, el de la moda, utiliza un arreglo auxiliar el cual se llenará de ceros y el proceso consiste en: 1.- Recorrer el vector y anotar las repeticiones 2.- Estas repeticiones se almacenan en el vector auxiliar así como su posición 3.- Teniendo lo anterior ahora se determina la posición donde se encuentran más repeticiones, se hace uso de una variable llamada posmayor la cual de cumplirse la condición donde el array auxiliar es mayor que quien tiene el valor mayor, almacena la posición de ese valor más repetido.
 Finalmente se imprime el arreglo colocando como índice a la variable posmayor ya que esta tiene como último valor la posición del valor que más veces se repitió
 Se imprimen los mensajes con los resultados y se le solicita al usuario si quiere volver a evaluar.
+
+//Calculadora
+
+Solicitar al usuario dos números.
+Solicitar al usuario la operación a realizar.
+La implementación de las operaciones, sera a través de funciones.
+Los cálculos de las operaciones, se harán a través de las funciones implementadas.
+
+Operaciones:
+1.- suma
+2.- resta
+3.- multiplicación
+4.- división
+
+Las llamadas a las funciones se hará a través de punteros de funciones, que estén declarados en un arreglo
+La aplicación deberá mostrar el resultado del cálculo.
