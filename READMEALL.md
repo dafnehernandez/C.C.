@@ -24,3 +24,7 @@ Operaciones:
 
 Las llamadas a las funciones se hará a través de punteros de funciones, que estén declarados en un arreglo
 La aplicación deberá mostrar el resultado del cálculo.
+
+
+//CURP
+Generar la CURP de una persona mediante el llenado de la solicitud de sus datos: nombre, lugar de nacimiento, fecha, sexo, etc.
