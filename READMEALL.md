@@ -9,6 +9,7 @@ El último método, el de la moda, utiliza un arreglo auxiliar el cual se llenar
 Finalmente se imprime el arreglo colocando como índice a la variable posmayor ya que esta tiene como último valor la posición del valor que más veces se repitió
 Se imprimen los mensajes con los resultados y se le solicita al usuario si quiere volver a evaluar.
 
+
 //Calculadora
 
 Solicitar al usuario dos números.
@@ -28,3 +29,5 @@ La aplicación deberá mostrar el resultado del cálculo.
 
 //CURP
 Generar la CURP de una persona mediante el llenado de la solicitud de sus datos: nombre, lugar de nacimiento, fecha, sexo, etc.
+
+En un arreglo se guarda el código de cada estado, como se recorre cada posición, al final se debe multiplicar por dos el código ingresado por el usuario para que coincida con la posición del arreglo
